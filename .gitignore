@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos temporales
+.tmp
+.cache
+
+# ZIPs
+*.zip
+
+# Despliegue
+*.bat
